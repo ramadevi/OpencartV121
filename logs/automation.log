@@ -1,0 +1,29 @@
+18:49:25.945 [main] INFO  testCases.TC001_AccountRegistrationTest - ********starting test execution TC001******
+18:49:25.969 [main] ERROR testCases.TC001_AccountRegistrationTest - test failed
+18:49:25.969 [main] DEBUG testCases.TC001_AccountRegistrationTest - Dubug logs ...
+18:49:25.969 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** completed test execution TC001******
+18:49:25.997 [main] INFO  testCases.TC002_LoginTest - ******* TC002_LoginTest Login test****** 
+18:51:39.427 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/ramadeviharikrishnan/eclipse-workspace/OpencartV121/Selenium-grid.xml"
+18:51:39.968 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/ramadeviharikrishnan/eclipse-workspace/OpencartV121/Selenium-grid.xml
+
+18:58:06.195 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/ramadeviharikrishnan/eclipse-workspace/OpencartV121/Selenium-grid.xml"
+18:58:06.670 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/ramadeviharikrishnan/eclipse-workspace/OpencartV121/Selenium-grid.xml
+
+19:02:38.967 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/ramadeviharikrishnan/eclipse-workspace/OpencartV121/Selenium-grid.xml"
+19:02:39.485 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/ramadeviharikrishnan/eclipse-workspace/OpencartV121/Selenium-grid.xml
+
+19:02:47.871 [main] INFO  testCases.TC001_AccountRegistrationTest - ********starting test execution TC001******
+19:02:49.405 [main] INFO  testCases.TC001_AccountRegistrationTest - ********adding user details  TC001******
+19:02:49.596 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** password entry TC001******
+19:02:50.857 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** completed test execution TC001******
+19:02:55.315 [main] INFO  testCases.TC002_LoginTest - ******* TC002_LoginTest Login test****** 
+12:42:47.127 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/ramadeviharikrishnan/eclipse-workspace/OpencartV121/Grouping.xml"
+12:50:25.746 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/ramadeviharikrishnan/eclipse-workspace/OpencartV121/Grouping.xml"
+12:50:31.279 [main] INFO  testCases.TC001_AccountRegistrationTest - ********starting test execution TC001******
+12:50:31.924 [main] INFO  testCases.TC001_AccountRegistrationTest - ********adding user details  TC001******
+12:50:32.194 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** password entry TC001******
+12:50:33.365 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** completed test execution TC001******
+12:50:38.098 [main] INFO  testCases.TC002_LoginTest - ******* TC002_LoginTest Login test****** 
